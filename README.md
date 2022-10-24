@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suzuc. have a good day!
+- 👋 Hi, I’m @suzuc.
 
 <!---
 - 👋 Hi, I’m @suzuc
